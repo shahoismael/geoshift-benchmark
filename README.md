@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23269524.svg)](https://doi.org/10.5281/zenodo.23269524)
+[![Code DOI](https://img.shields.io/badge/Code_DOI-10.5281%2Fzenodo.23269524-blue)](https://doi.org/10.5281/zenodo.23269524) [![Data DOI](https://img.shields.io/badge/Data_DOI-10.5281%2Fzenodo.23269887-blue)](https://doi.org/10.5281/zenodo.23269887) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-shahoismael%2Fgeoshift-yellow)](https://huggingface.co/datasets/shahoismael/geoshift) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 # GeoShift
 
