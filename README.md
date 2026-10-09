@@ -4,7 +4,7 @@ A benchmark for cross-survey evaluation of geochemical machine learning under de
 
 GeoShift harmonises three continental-scale geochemical surveys into an **observational arm** (GEMAS, Europe; NGSA, Australia; NASGL, conterminous USA; 8,285 samples, 39 shared elements) and adds the Tellus survey of Ireland as a **controlled arm** (5,643 samples, each analysed by two analytical routes). Every cell carries censoring indicators, detection limits and limit provenance. Frozen fold definitions are released for random, spatially blocked, environmentally blocked and leave-one-survey-out validation.
 
-> Hassen, S. and Sulaiman, D. A.: GeoShift: a four-survey geochemical benchmark for cross-survey evaluation under detection-limit censoring, *Earth System Science Data* (in preparation).
+> Sulaiman, D. A., Hassen, S. I., Abdlrazaq, A. A., and Noori, E. M.: GeoShift: a four-survey geochemical benchmark for cross-survey evaluation under detection-limit censoring, *Earth System Science Data* (in preparation).
 
 ## Contents
 

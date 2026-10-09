@@ -3,13 +3,22 @@ message: "If you use GeoShift, please cite it as below."
 title: "GeoShift: a four-survey geochemical benchmark for cross-survey evaluation under detection-limit censoring"
 type: software
 authors:
-  - family-names: Hassen
-    given-names: Shaho
-    affiliation: "Salahaddin University-Erbil"
-    orcid: "https://orcid.org/0000-0002-6403-7748"
   - family-names: Sulaiman
     given-names: Dashti Arif
-    affiliation: "Salahaddin University-Erbil"
+    affiliation: "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+    orcid: "https://orcid.org/0009-0004-1212-7946"
+  - family-names: Hassen
+    given-names: Shaho Ismael
+    affiliation: "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+    orcid: "https://orcid.org/0000-0002-6403-7748"
+  - family-names: Abdlrazaq
+    given-names: Ahmed Abdulfatah
+    affiliation: "Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq"
+    orcid: "https://orcid.org/0000-0002-3054-045X"
+  - family-names: Noori
+    given-names: Ekhlas Mohammed
+    affiliation: "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
+    orcid: "https://orcid.org/0009-0000-8998-3741"
 license: MIT
 repository-code: "https://github.com/shahoismael/geoshift-benchmark"
 version: 1.0.0
