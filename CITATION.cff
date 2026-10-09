@@ -25,8 +25,9 @@ repository-code: "https://github.com/shahoismael/geoshift-benchmark"
 version: 1.0.0
 date-released: 2026-10-09
 keywords:
-  - geochemistry
-  - machine learning
-  - benchmark
-  - detection-limit censoring
-  - cross-validation
+  - analytical provenance
+  - left-censored data
+  - leave-one-survey-out validation
+  - spatial cross-validation
+  - data leakage
+  - continental-scale geochemical mapping
