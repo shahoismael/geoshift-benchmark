@@ -22,7 +22,7 @@ GeoShift harmonises three continental-scale geochemical surveys into an **observ
 
 ## Data
 
-The harmonised tables are archived on Zenodo: https://doi.org/10.5281/zenodo.23269887
+The harmonised tables are archived on Zenodo: https://doi.org/10.5281/zenodo.23269887 (mirror: https://huggingface.co/datasets/shahoismael/geoshift)
 
 **GEMAS values are not redistributed.** They are published by Geological Survey Ireland on data.gov.ie under CC BY 4.0, and `audit/verify_gemas_gsi.py` fetches and verifies them record for record. NGSA (CC BY 4.0), NASGL (US public domain) and Tellus (CC BY 4.0) are redistributed in harmonised form.
 
