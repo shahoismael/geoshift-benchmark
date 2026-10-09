@@ -1,5 +1,7 @@
 # GeoShift
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23269524.svg)](https://doi.org/10.5281/zenodo.23269524)
+
 A benchmark for cross-survey evaluation of geochemical machine learning under detection-limit censoring.
 
 GeoShift harmonises three continental-scale geochemical surveys into an **observational arm** (GEMAS, Europe; NGSA, Australia; NASGL, conterminous USA; 8,285 samples, 39 shared elements) and adds the Tellus survey of Ireland as a **controlled arm** (5,643 samples, each analysed by two analytical routes). Every cell carries censoring indicators, detection limits and limit provenance. Frozen fold definitions are released for random, spatially blocked, environmentally blocked and leave-one-survey-out validation.
@@ -46,4 +48,4 @@ Code: MIT (`LICENSE`). Data and derived tables: CC BY 4.0. Cite the original sur
 
 ## Contact
 
-Shaho Hassen, Salahaddin University, Erbil — shaho.hassen@su.edu.krd — ORCID 0000-0002-6403-7748
+Shaho Hassen, Salahaddin University, Erbil â€” shaho.hassen@su.edu.krd â€” ORCID 0000-0002-6403-7748

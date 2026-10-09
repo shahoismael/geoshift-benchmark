@@ -19,6 +19,7 @@ authors:
     given-names: Ekhlas Mohammed
     affiliation: "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq"
     orcid: "https://orcid.org/0009-0000-8998-3741"
+doi: 10.5281/zenodo.23269524
 license: MIT
 repository-code: "https://github.com/shahoismael/geoshift-benchmark"
 version: 1.0.0
