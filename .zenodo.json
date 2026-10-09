@@ -1,0 +1,46 @@
+{
+  "title": "GeoShift: a four-survey geochemical benchmark for cross-survey evaluation under detection-limit censoring (code)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Evaluation harness, fold assignments, metadata, per-task results and preregistration for GeoShift, a four-survey geochemical benchmark (GEMAS, NGSA, NASGL, Tellus) for cross-survey evaluation under detection-limit censoring. Source survey data are not redistributed; the harness fetches them from their official providers at build time.",
+  "creators": [
+    {
+      "name": "Sulaiman, Dashti Arif",
+      "affiliation": "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq",
+      "orcid": "0009-0004-1212-7946"
+    },
+    {
+      "name": "Hassen, Shaho Ismael",
+      "affiliation": "Department of Chemical and Petrochemical Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq",
+      "orcid": "0000-0002-6403-7748"
+    },
+    {
+      "name": "Abdlrazaq, Ahmed Abdulfatah",
+      "affiliation": "Directorate of Information Technology, Salahaddin University-Erbil, Erbil, Iraq",
+      "orcid": "0000-0002-3054-045X"
+    },
+    {
+      "name": "Noori, Ekhlas Mohammed",
+      "affiliation": "Department of Software Engineering, College of Engineering, Salahaddin University-Erbil, Erbil, Iraq",
+      "orcid": "0009-0000-8998-3741"
+    }
+  ],
+  "keywords": [
+    "analytical provenance",
+    "left-censored data",
+    "leave-one-survey-out validation",
+    "spatial cross-validation",
+    "data leakage",
+    "continental-scale geochemical mapping"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/shahoismael/geoshift-benchmark",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
