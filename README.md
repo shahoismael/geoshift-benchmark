@@ -49,4 +49,4 @@ Code: MIT (`LICENSE`). Data and derived tables: CC BY 4.0. Cite the original sur
 
 ## Contact
 
-Shaho Hassen, Salahaddin University, Erbil Ã¢â‚¬â€ shaho.hassen@su.edu.krd Ã¢â‚¬â€ ORCID 0000-0002-6403-7748
+Shaho Ismael Hassen, Salahaddin University-Erbil, Erbil, Iraq | shaho.hassen@su.edu.krd | ORCID [0000-0002-6403-7748](https://orcid.org/0000-0002-6403-7748)
