@@ -1,0 +1,3 @@
+task,direction,n_elements,slope,ci_lo,ci_hi,n_boot,n_pairs,caveat
+3,NASGL->NGSA,33,0.4375155076952076,-0.08593133152369846,0.7782014675733937,2000,1,"elements within a pair share laboratory, digestion and batch structure; residual dependence is not modelled, and n_pairs = 1 so no generality over laboratories follows"
+3,NGSA->NASGL,33,0.4697740513919006,-0.0516600604654992,0.8009112575226356,2000,1,"elements within a pair share laboratory, digestion and batch structure; residual dependence is not modelled, and n_pairs = 1 so no generality over laboratories follows"

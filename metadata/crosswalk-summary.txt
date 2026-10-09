@@ -1,0 +1,60 @@
+elements seen in any survey : 53
+GEMAS 53 | NGSA 52 | NASGL 44
+present in all three        : 44
+Paper 1 core (pooled_conc)  : 44
+excluded                    : 9
+
+NGSA method selected per core element (rank 1 of the catalogue):
+  Ag  ICP-MS     mg/kg
+  Al  XRF        mg/kg
+  As  ICP-MS     mg/kg
+  Ba  ICP-MS     mg/kg
+  Be  ICP-MS     mg/kg
+  Bi  ICP-MS     mg/kg
+  Ca  XRF        mg/kg
+  Cd  ICP-MS     mg/kg
+  Ce  ICP-MS     mg/kg
+  Co  ICP-MS     mg/kg
+  Cr  ICP-MS     mg/kg
+  Cs  ICP-MS     mg/kg
+  Cu  ICP-MS     mg/kg
+  Fe  AR         mg/kg
+  Ga  ICP-MS     mg/kg
+  Hg  AR         mg/kg
+  In  AR         mg/kg
+  K   XRF        mg/kg
+  La  ICP-MS     mg/kg
+  Li  AR         mg/kg
+  Mg  XRF        mg/kg
+  Mn  XRF        mg/kg
+  Mo  ICP-MS     mg/kg
+  Na  XRF        mg/kg
+  Nb  ICP-MS     mg/kg
+  Ni  ICP-MS     mg/kg
+  P   XRF        mg/kg
+  Pb  ICP-MS     mg/kg
+  Rb  ICP-MS     mg/kg
+  S   XRF        mg/kg
+  Sb  ICP-MS     mg/kg
+  Sc  ICP-MS     mg/kg
+  Se  AR         mg/kg
+  Sn  ICP-MS     mg/kg
+  Sr  ICP-MS     mg/kg
+  Te  AR         mg/kg
+  Th  ICP-MS     mg/kg
+  Ti  XRF        mg/kg
+  Tl  AR         mg/kg
+  U   ICP-MS     mg/kg
+  V   ICP-MS     mg/kg
+  W   ICP-MS     mg/kg
+  Y   ICP-MS     mg/kg
+  Zn  ICP-MS     mg/kg
+
+NGSA method mix across the core:
+ngsa_method
+ICP-MS    28
+XRF        9
+AR         7
+Name: count, dtype: int64
+
+core elements with LOD ratio >= 2x : 28 of 39

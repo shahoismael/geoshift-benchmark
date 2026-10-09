@@ -1,0 +1,7 @@
+arm,survey_balanced_accuracy
+true,0.3153
+half_lld,0.9208
+median,0.6972
+maskreg,0.5889
+common,0.3528
+verdict,FAIL

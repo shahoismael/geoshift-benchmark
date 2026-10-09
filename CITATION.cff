@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use GeoShift, please cite it as below."
+title: "GeoShift: a four-survey geochemical benchmark for cross-survey evaluation under detection-limit censoring"
+type: software
+authors:
+  - family-names: Hassen
+    given-names: Shaho
+    affiliation: "Salahaddin University-Erbil"
+    orcid: "https://orcid.org/0000-0002-6403-7748"
+  - family-names: Sulaiman
+    given-names: Dashti Arif
+    affiliation: "Salahaddin University-Erbil"
+license: MIT
+repository-code: "https://github.com/shahoismael/geoshift-benchmark"
+version: 1.0.0
+date-released: 2026-10-09
+keywords:
+  - geochemistry
+  - machine learning
+  - benchmark
+  - detection-limit censoring
+  - cross-validation

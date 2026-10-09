@@ -1,0 +1,10 @@
+element,in_gemas,in_ngsa,in_nasgl,n_surveys,exclusion_reason
+Au,True,True,False,2,not reported in all three surveys
+B,True,True,False,2,not reported in all three surveys
+Ge,True,True,False,2,not reported in all three surveys
+Hf,True,True,False,2,not reported in all three surveys
+Pd,True,True,False,2,not reported in all three surveys
+Pt,True,True,False,2,not reported in all three surveys
+Ta,True,True,False,2,not reported in all three surveys
+Zr,True,True,False,2,not reported in all three surveys
+Re,True,False,False,1,not reported in all three surveys

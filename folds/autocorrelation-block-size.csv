@@ -1,0 +1,2 @@
+percentile,percentile_value_km,round_to_km,block_side_km,sensitivity_low_km,sensitivity_high_km,n_accepted,n_attempted,model,practical_range_rule,detrended,seed
+90,1414.668291503011,25.0,1425.0,712.5,2850.0,50,117,exponential,3a,first_order_lon_lat,20260925

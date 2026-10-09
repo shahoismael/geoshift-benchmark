@@ -1,0 +1,6 @@
+element,rule_balanced_accuracy,xrfs_pct,icpar_pct
+Hg,0.9963,99.91,0.65
+Ag,0.9744,96.26,1.38
+W,0.8761,6.52,81.74
+Bi,0.8519,71.6,1.22
+Ti,0.8407,0.09,68.23

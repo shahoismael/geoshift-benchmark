@@ -1,0 +1,138 @@
+{
+  "harness_version": "7.0.0",
+  "methodology_sha256": "DB331CA8AE9FAEC6C022ED26ECBBCC9026EE003339BD68B874D46149A7FC9FEC",
+  "timestamp_utc": "2026-10-03T01:05:20Z",
+  "seed": 20260925,
+  "argv": [
+    "--task",
+    "1",
+    "--protocol",
+    "environmental_k3",
+    "--imputation",
+    "median_train",
+    "--covariates",
+    "environmental"
+  ],
+  "args": {
+    "task": [
+      "1"
+    ],
+    "protocol": [
+      "environmental_k3"
+    ],
+    "control": [],
+    "model": null,
+    "imputation": "median_train",
+    "covariates": "environmental",
+    "elements": 0,
+    "n_perm": 1000,
+    "perm_part": 0,
+    "headline": false,
+    "occupancy": false,
+    "check": false
+  },
+  "python": "3.11.9",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "1.26.2",
+  "pandas": "3.0.5",
+  "scikit_learn": "1.9.0",
+  "scipy": "1.11.4",
+  "inputs": {
+    "autocorrelation-block-size.csv": {
+      "bytes": 260,
+      "sha256": "BB21457B9EC583056D6318BE4F2497318A4D2E2D2A84DB6A3F51CF7FF2C1C654"
+    },
+    "autocorrelation-ranges.csv": {
+      "bytes": 23198,
+      "sha256": "CF0D73E5A7F3CCD0D484F3C3F3A200077245C3E41BB62E0E85D7EAAF295D1532"
+    },
+    "folds-environmental.csv": {
+      "bytes": 514767,
+      "sha256": "8CF47EA82F5C99AF0A791A66701D59EFC48E67D4DA528F2D7F66F85113AFD2E3"
+    },
+    "folds-loso.csv": {
+      "bytes": 338854,
+      "sha256": "02F5C89FCD6A0A4D58A297BE6BCC718842BCE3814C746C3DAEDBC73DAADAC783"
+    },
+    "folds-predictor-kmeans-sensitivity.csv": {
+      "bytes": 338866,
+      "sha256": "235C6491E213991AC31FC8CE57BE220DE4A3D68BAD7F87B2B5664AE0A64DA81E"
+    },
+    "folds-random-kfold.csv": {
+      "bytes": 355447,
+      "sha256": "457CEF92DD06635D2353F9B28A33562C65DFB38541991043CE8FBA86C995AB8F"
+    },
+    "folds-spatial-block.csv": {
+      "bytes": 378986,
+      "sha256": "58E3A2631C8DF7FF4ED755797799C093CA1C0B936567B6743E77C62750CA9338"
+    },
+    "folds-task2p.csv": {
+      "bytes": 426625,
+      "sha256": "A68E2B9F4424F5BAE5C7A8BEB26AE2DC7D91724E99A4F81130ABF041D15CED21"
+    },
+    "lock-manifest-prereg-2026-09-25.csv": {
+      "bytes": 1374,
+      "sha256": "C0F9B4DD5CFC9FB496E04A5749FC85E3B82067CB8D4935899B577401314CAE0F"
+    },
+    "nndm-target-distributions.csv": {
+      "bytes": 525,
+      "sha256": "43A412E5E46557E46C44EC9D44804E7BF360D12BE6B977B99B66376D12EAF840"
+    },
+    "prereg-amendments.md": {
+      "bytes": 15172,
+      "sha256": "FBDE08C5E675DD4B7CFE15FAB914EFFC10779FDF124D0E8215DFD8530EC39EED"
+    },
+    "preregistration.md": {
+      "bytes": 9391,
+      "sha256": "7907BC7CE84A096188A9E6816E0BA5E970F80C09CDCB7E8A3BF002A43317ACED"
+    },
+    "primary-core-elements.csv": {
+      "bytes": 158,
+      "sha256": "7C7B5A314A54D8C0A262E16AD28A25AAC1FC169FFF0F9C543E2D88FCBE17326F"
+    },
+    "crosswalk-decisions-for-dashti.md": {
+      "bytes": 3587,
+      "sha256": "0574BC025500A84C1193B5B56CBC93D435F1AE381C1878030BDEC31EC3D2599A"
+    },
+    "element-crosswalk.csv": {
+      "bytes": 5199,
+      "sha256": "ED91EC515C82E4805E4FEC0E3A3E173CC9F3298294B6D24ACD4F11CA01BF92E1"
+    },
+    "element-exclusions.csv": {
+      "bytes": 566,
+      "sha256": "DFE7066C881914AEAD431CB26AEDFEFF992112331815A83D61C142713BD8A2DD"
+    },
+    "lod-disparity-delta.csv": {
+      "bytes": 1888,
+      "sha256": "C53D6A5E2AFE172816295FA142C2FE43A7D6560D2A3E0E56021DA9B2786F3CD5"
+    },
+    "lod-table-per-element-survey.csv": {
+      "bytes": 12996,
+      "sha256": "622E838E2B053E337BC56B23B7E54C883384E22B0A40AEDEF1E3779C3856AF18"
+    },
+    "sample-environmental-strata.csv": {
+      "bytes": 777686,
+      "sha256": "DFC3A19DEEC2AB02FEA55B695D49FDE8C41A5078AE9DE86DB3C5ECAA93DD2596"
+    },
+    "strata-power-summary.csv": {
+      "bytes": 360,
+      "sha256": "F0C2AD6D4A8194FC91153F0371B8CCE4D889F6D7EA69C283845EB6297FB8FAA6"
+    },
+    "survey-mask-audit.csv": {
+      "bytes": 234,
+      "sha256": "E5D53F0E2A165221E15574047A4285435BB3BDA3CF7AF24A24FDDC6C65692875"
+    },
+    "tellus-censoring-catalogue.csv": {
+      "bytes": 10050,
+      "sha256": "FFB8F681C535BBA06A29CA3F14881AFD738F9C8E8A79448D3F089909AEDB6BC2"
+    },
+    "tellus-paired-method-contrast.csv": {
+      "bytes": 4043,
+      "sha256": "87DB68842F67C07A025C65E615853B3E72061AA5D54AFD1BA7A05D7A87F797B6"
+    },
+    "tellus-single-element-route-null.csv": {
+      "bytes": 159,
+      "sha256": "C395E6861206B814F38A047C24F0E5F65FC978917DF8EC35FFAF8782C5FD04A3"
+    }
+  }
+}

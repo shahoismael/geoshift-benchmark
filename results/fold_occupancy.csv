@@ -1,0 +1,8 @@
+protocol,n_folds,folds_all_surveys_present,folds_all_surveys_at_min,min_per_survey_threshold,task2_eligible,registry_says_task2
+random_k10,10,10,10,30,True,True
+random_k3,3,3,3,30,True,True
+spatial_k3,3,3,3,30,True,True
+environmental_k10,10,9,7,30,False,False
+environmental_k3,3,3,3,30,True,True
+loso,3,0,0,30,False,False
+predictor_kmeans,10,5,0,30,False,False

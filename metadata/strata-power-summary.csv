@@ -1,0 +1,5 @@
+definition,strata,multi_survey_strata,samples_in_multi,pct_samples_in_multi,surveys_covered,min_survey_n_in_multi,log_permutations
+climate group only (A-E),4,4,8084,100.0,3,1276,6165.1
+lithology only (GLiM),13,13,8084,100.0,3,1276,6603.9
+climate group x lithology,47,35,7976,98.7,3,1226,5137.4
+full Koppen class x lithology,164,84,7324,90.6,3,1215,2912.0
