@@ -1,6 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23269524.svg)](https://doi.org/10.5281/zenodo.23269524)
+
 # GeoShift
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23269524.svg)](https://doi.org/10.5281/zenodo.23269524)
 
 A benchmark for cross-survey evaluation of geochemical machine learning under detection-limit censoring.
 
@@ -48,4 +49,4 @@ Code: MIT (`LICENSE`). Data and derived tables: CC BY 4.0. Cite the original sur
 
 ## Contact
 
-Shaho Hassen, Salahaddin University, Erbil â€” shaho.hassen@su.edu.krd â€” ORCID 0000-0002-6403-7748
+Shaho Hassen, Salahaddin University, Erbil Ã¢â‚¬â€ shaho.hassen@su.edu.krd Ã¢â‚¬â€ ORCID 0000-0002-6403-7748
